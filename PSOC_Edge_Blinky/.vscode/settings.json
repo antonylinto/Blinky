@@ -1,0 +1,11 @@
+{
+    "modustoolbox.toolsPath": "C:/Users/antonyl/ModusToolbox/tools_3.9",
+    "cortex-debug.armToolchainPath": "C:/Users/antonyl/Infineon/Tools/mtb-gcc-arm-eabi/14.2.1/gcc/bin",
+    "cortex-debug.openocdPath": "c:/Users/antonyl/ModusToolbox/modustoolboxprogtools/openocd/bin/openocd.exe",
+    "cortex-debug.JLinkGDBServerPath.windows": "C:/Program Files/SEGGER/JLink_V978/JLinkGDBServerCL.exe",
+    "cortex-debug.JLinkGDBServerPath.osx": "C:/Program Files/SEGGER/JLink_V978/JLinkGDBServerCL.exe",
+    "cortex-debug.JLinkGDBServerPath.linux": "C:/Program Files/SEGGER/JLink_V978/JLinkGDBServerCL.exe",
+    "cortex-debug.gccPath": "C:/Users/antonyl/Infineon/Tools/mtb-gcc-arm-eabi/14.2.1/gcc/bin",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "clangd.detectExtensionConflicts": false
+}
